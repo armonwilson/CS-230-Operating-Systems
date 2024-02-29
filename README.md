@@ -1,6 +1,7 @@
 # CS-230-Operating-Systems
 
 Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
+
   The Client: The Gaming Room is a game development company.
 
   Their Goal:  Expand their existing game, "Draw It or Lose It," to reach a broader audience. This involves:
